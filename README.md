@@ -1,4 +1,4 @@
-# learning-notes_Algorithm
+# learning-notes_DSA
 ***学计科两年，归来仍是新手***。
 
 这是已经大三的我的第一个GitHub仓库，用于学习与熟练Markdown语法、git仓库操作，并复(yu)习精进数据结构与算法。
